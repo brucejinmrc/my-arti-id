@@ -1,4 +1,4 @@
-package my_goup_id.my_arti_id;
+package com.me;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
